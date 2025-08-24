@@ -1,10 +1,10 @@
  # CREATE AN  ACCOUNT IN AWS SET UP A ROOT USER AND AN IAM USER 
  ### REG NUMBER: 212223040067
 ### NAME: INFANCIA FELCY P
- ## AIM
-       To Create an Account in AWS Set up a Root user and an IAM user.
-## PROBLEM STATEMENT
-    Explain about the Experiment.
+### AIM
+To Create an Account in AWS Set up a Root user and an IAM user.
+### PROBLEM STATEMENT
+Explain about the Experiment.
 
 ## ALGORITHM
 ### Steps 1:
